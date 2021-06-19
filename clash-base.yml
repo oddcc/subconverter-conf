@@ -22,9 +22,12 @@ dns:
     - www.msftncsi.com
     - www.msftconnecttest.com
   nameserver:
-    - https://dns.alidns.com/dns-query
-    - https://1.1.1.1/dns-query
-    - tls://dns.adguard.com:853
+    - 114.114.114.114
+    - 119.29.29.29
+    - tls://1.1.1.1:853
+    - tcp://1.1.1.1:53
+    - tcp://208.67.222.222:443
+    - tls://dns.google
 cfw-bypass:
   - qq.com
   - music.163.com
