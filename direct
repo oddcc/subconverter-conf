@@ -12,4 +12,4 @@ DOMAIN,ocsp.apple.com
 DOMAIN,chenhq.ddns.net
 DOMAIN,home.chenhq.ren
 DOMAIN,oddcc.myqnapcloud.cn
-DOMAIN,epicgames.com
+DOMAIN-SUFFIX,epicgames.com
