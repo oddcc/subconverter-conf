@@ -8,3 +8,5 @@ DOMAIN,prod-edx-edxapp-assets.edx-cdn.org
 DOMAIN,prod-images.edx-video.net
 DOMAIN,edx-video.net
 DOMAIN,d3njjcbhbojbot.cloudfront.net
+DOMAIN-SUFFIX,udemycdn.com
+DOMAIN-SUFFIX,udemy.com
