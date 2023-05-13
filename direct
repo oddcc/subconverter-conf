@@ -12,7 +12,6 @@ DOMAIN,ocsp.apple.com
 DOMAIN,chenhq.ddns.net
 DOMAIN,home.chenhq.ren
 DOMAIN,oddcc.myqnapcloud.cn
-DOMAIN-SUFFIX,epicgames.com
 DOMAIN-KEYWORD,tailscale
 DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,tailscale.io
