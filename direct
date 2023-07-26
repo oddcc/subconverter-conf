@@ -1,8 +1,5 @@
-DOMAIN-SUFFIX,cisco.com
-DOMAIN-SUFFIX,webex.com
 DOMAIN,ocsp.apple.com
 DOMAIN,chenhq.ddns.net
-DOMAIN,home.chenhq.ren
 DOMAIN,oddcc.myqnapcloud.cn
 DOMAIN-KEYWORD,tailscale
 DOMAIN-SUFFIX,tailscale.com
