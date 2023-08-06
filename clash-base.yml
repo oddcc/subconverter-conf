@@ -10,7 +10,7 @@ dns:
   enable: true
   ipv6: false
   listen: 0.0.0.0:15353
-  enhanced-mode: redir-host
+  enhanced-mode: fake-ip
   fake-ip-filter:
     - "*.lan"
     - localhost.ptlogin2.qq.com
