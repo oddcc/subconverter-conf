@@ -10,11 +10,7 @@ dns:
   enable: true
   ipv6: false
   listen: 0.0.0.0:15353
-  enhanced-mode: fake-ip
-  default-nameserver:
-    - 119.29.29.29
-    - 223.5.5.5
-    - 1.2.4.8
+  enhanced-mode: redir-host
   fake-ip-filter:
     - "*.lan"
     - localhost.ptlogin2.qq.com
@@ -24,6 +20,7 @@ dns:
   nameserver:
     - 114.114.114.114
     - 119.29.29.29
+  fallback:
     - tls://1.1.1.1:853
     - tcp://1.1.1.1:53
     - tcp://208.67.222.222:443
