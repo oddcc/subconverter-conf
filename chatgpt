@@ -9,12 +9,5 @@ DOMAIN-SUFFIX,invoice.stripe.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,statsig.com
-DOMAIN-SUFFIX,cdn.oaistatic.com
-DOMAIN-SUFFIX,edgeservices.bing.com
-DOMAIN-SUFFIX,d.docs.live.net
-DOMAIN-SUFFIX,edge.microsoft.com
-DOMAIN-SUFFIX,proteus-assetstore.azurewebsites.net
-DOMAIN-SUFFIX,nexusrules.officeapps.live.com
-DOMAIN-SUFFIX,functional.events.data.microsoft.com
-DOMAIN-SUFFIX,browser.events.data.msn.cn
-DOMAIN-SUFFIX,services.bingapis.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,copilot.microsoft.com
