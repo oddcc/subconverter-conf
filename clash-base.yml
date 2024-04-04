@@ -51,3 +51,9 @@ cfw-bypass:
   - 192.168.*
   - <local>
 cfw-latency-timeout: 5000
+rule-providers:
+  WOT-CN:
+    type: http
+    behavior: ipcidr
+    url: "https://raw.githubusercontent.com/FQrabbit/SSTap-Rule/master/rules/World-of-Tanks-cn.rules"
+    path: "./game_rules/World-of-Tanks-cn.rules"
